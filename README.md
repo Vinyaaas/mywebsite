@@ -2,5 +2,6 @@
 
 This is a simple django application which is a portfolio website .Here i have showcased my resume.I have used django framework,python,html,css for programming and styling.
 
-![webportfolio](https://user-images.githubusercontent.com/91446586/145390772-d49070b6-8575-437d-9642-677dfa777bfa.PNG)
-![webpo](https://user-images.githubusercontent.com/91446586/145390796-71f16b73-6d50-4eaa-a370-a02c57b28952.PNG)
+![Capture1](https://user-images.githubusercontent.com/91446586/148380065-605a5f82-b355-4a3a-9688-48c8aee77d6e.PNG)
+
+![Capture2](https://user-images.githubusercontent.com/91446586/148380073-aa42d97b-ef25-4f23-85f0-31dfaa08354d.PNG)
